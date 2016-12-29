@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: La veleta de Schrödinger
+published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Pachuca, también llamada *La Bella Airosa*, es una ciudad caracterizada por los fuertes vientos que soplan entre los cerros que rodean a la ciudad. De ahí la veleta de Schrödinger que esta página usa como logo: 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![catlogo.svg]({{site.baseurl}}/_posts/catlogo.svg)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
