@@ -22,5 +22,5 @@ title: Dr. Lao-Tse López Lozano
 # PUBLICACIONES RECIENTES
 
 
-<iframe src="http://inspirehep.net/search?p=exactauthor%3AL.Lopez.Lozano.1&sf=earliestdate" height="600" width="800" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://inspirehep.net/search?p=exactauthor%3AL.Lopez.Lozano.1&sf=earliestdate" height="600" width="800" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
