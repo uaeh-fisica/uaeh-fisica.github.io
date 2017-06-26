@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Acerca del grupo de física del AAMyF
 permalink: /about/
 ---
 
-Some information about you!
+Esta es la página del grupo de física del Área Académica de Matemáticas y Físicas de la Universidad Autónoma del Estado de Hidalgo. 
 
-### More Information
+### Otra infotmación
 
 A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+### Contactar al administrador
 
-[email@domain.com](mailto:email@domain.com)
+[selimibn@gmail.com](mailto:selimibn@gmail.com)
