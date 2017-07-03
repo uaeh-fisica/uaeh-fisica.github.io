@@ -1,0 +1,24 @@
+---
+layout: page
+title: Dr. Luis Alberto López
+---
+
+{:.center}
+![pedro]({{site.baseurl}}/images/miembros/luis.jpg)
+
+
++ Nivel del SNI: Investigador Nacional Nivel 1 
++ Telefono:(771) 71 72 000 ext. 2532
++ Email: lalopez@uaeh.edu.mx
+
+# FORMACIÓN PROFESIONAL 
+
+
++ Doctorado en Ciencias con Especialidad en Física, Centro de Investigación y de Estudios Avanzados del IPN (CINVESTAV), México. (2009) 
++ Maestría en Ciencias con Especialidad en Física, Centro de Investigación y de Estudios Avanzados del IPN (CINVESTAV), México. (2006) 
++ Licenciatura en Física y Matemáticas, Escuela Superior de Física y Matemáticas (IPN).(2003
+)
+# PUBLICACIONES RECIENTES
+
+<iframe src="https://inspirehep.net/search?p=exactauthor%3AL.A.Lopez.3&sf=earliestdate" height="600" width="800" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>&nbsp;</iframe>
+
